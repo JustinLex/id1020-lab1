@@ -1,3 +1,6 @@
+// "README"
+// takes characters + a newline char and prints them back in reverse order using
+// a recursive algorithm
 #include <stdio.h>
 
 int main() {
