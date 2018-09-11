@@ -4,12 +4,13 @@ int main() {
   return 0;
 }
 
-int processinput(void) {
+void processinput(void) {
   char newchar = getchar();
-  if newchar == '\n'
-    return
+  if(newchar == '\n')
+    return;
   else {
     processinput();
     printf(newchar);
+    return;
   }
 }
