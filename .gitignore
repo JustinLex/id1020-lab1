@@ -1,3 +1,6 @@
+#java output
+*.class
+
 # Prerequisites
 *.d
 
