@@ -1,5 +1,6 @@
 # id1020-lab1
 
+## Contents
 Code solutions for lab 1 in my second-year course, ID1020: Algorithms and Data Structures.
 
 * Assignment 1 is fulfilled by `read-backwards_recursive.c` and `read-backwards_iterative.c`.
@@ -18,7 +19,7 @@ All JAVA implementations should implement a method returning string representati
 
 You are not allowed to use Java library implementations of the data structures (queues, lists etc.) The idea is that you should learn to implement the internals yourself!
 
-## Programming assignments:
+### Programming assignments:
 
 1. In C implement a recursive and an iterative version of a function which reads characters from stdin until a newline character is read and then prints them on stdout in reverse order. Hint: use getchar(), putchar() (or getc(), putc()). For the iterative version you may assume a fixed max length of the input.
 2. Implement the above program in JAVA using one of the ADTs suggested in ch. 1.3
@@ -29,7 +30,7 @@ You are not allowed to use Java library implementations of the data structures (
 
 *Update, 2018-09-11:* Previously, Programming assignments 2 through 6 above were numbered 1 through 5, so that there were two number 1's and no number 6. This was due to a markup mistake. We apologize for any confusion caused by this!
 
-## Questions to answer in the seminar:
+### Questions to answer in the seminar:
 
 Show means that you should be able to project the code/files you have uploaded in Canvas from Canvas from your own computer or the teachers. I.e. you cannot use another file than the one you have uploaded in Canvas. You should be able to explain your code in detail and your design choices.
 
