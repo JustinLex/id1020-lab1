@@ -4,7 +4,7 @@
 Code solutions for lab 1 in my second-year course, ID1020: Algorithms and Data Structures.
 
 * Assignment 1 is fulfilled by `read-backwards_recursive.c` and `read-backwards_iterative.c`.
-* Assignment 2 is fulfilled by `ReadBackwards.java`.
+* Assignment 2 is fulfilled by `ReadBackwardsADT.java`.
 
 ## Lab Text:
 Update, 2018-09-11: The numbering of the programming assignments has been corrected.
