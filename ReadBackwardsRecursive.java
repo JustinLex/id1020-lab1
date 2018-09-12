@@ -11,18 +11,18 @@ public class ReadBackwardsRecursive {
 
   private static void processInput(Scanner s) {
     char c = '\n';
-    while(true) {
+    while(true) { //loop to wait for a new char
       if(s.hasNext()) {
-        c = s.next().charAt(0);
+        c = s.next().charAt(0); //read in the new char
         break;
       }
     }
 
-    if(c == '\n')
+    if(c == '\n') //stop recursion if we hit LF
       return;
     else {
-      processInput(s);
-      System.out.print(c);
+      processInput(s); //recurse to handle a new character
+      System.out.print(c); //print character as we exit recursion (printing in reverse order)
     }
   }
 }
