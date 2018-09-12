@@ -5,6 +5,7 @@ Code solutions for lab 1 in my second-year course, ID1020: Algorithms and Data S
 
 * Assignment 1 is fulfilled by `read-backwards_recursive.c` and `read-backwards_iterative.c`.
 * Assignment 2 is fulfilled by `ReadBackwardsADT.java`.
+* Assignment 3 is fulfilled by `ReadForwardDLL.java`.
 
 ## Lab Text:
 Update, 2018-09-11: The numbering of the programming assignments has been corrected.
